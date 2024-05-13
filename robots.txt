@@ -1,0 +1,10 @@
+User-agent: *
+Disallow: /
+
+Disallow: /*.pdf$
+Disallow: /content/
+Disallow: /css/
+Disallow: /img/
+Disallow: /js/
+Disallow: contact.html
+Disallow: resume.html
