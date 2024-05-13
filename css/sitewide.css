@@ -99,7 +99,7 @@ nav #leftnav a:hover { color: rgba(255,0,0,1); }
 nav #leftnav #logo { float: left; }
 nav #leftnav #myname {
 	font-family       : 'Raleway', sans-serif;
-	font-weight       : 200;
+	font-weight       : 300;
 	float             : left;
 	-webkit-transition: all 0.467s ease-in-out;
 	transition        : all 0.467s ease-in-out;
@@ -108,17 +108,17 @@ nav #leftnav #myname {
 nav #rightnav { float: right !important;}
 nav #rightnav ul li {
 	font-family       : 'Raleway', sans-serif;
-	font-weight       : 200;
+	font-weight       : 300;
 	float             : left;
 	-webkit-transition: all 0.471s ease-in-out;
 	transition        : all 0.471s ease-in-out;
 }
 nav #rightnav ul li a {
-	font-weight: 200;
+	font-weight: 300;
 	color      : rgba(0,0,0,1);
 }
 nav #rightnav ul li a:hover {
-	font-weight: 200;
+	font-weight: 300;
 	color      : rgba(225,0,0,1);;
 }
 
@@ -275,7 +275,7 @@ footer {
 	text-align: center;
 	font-family: 'Raleway', sans-serif;
 	color: rgba(125,125,125,1);
-	font-weight: 200;
+	font-weight: 300;
 }
 #footernav a, #copyright { color: rgba(125,125,125,1); }
 #footernav a:visited { color: rgba(125,125,125,1); }

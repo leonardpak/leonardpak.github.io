@@ -8,7 +8,7 @@ p {
 	line-height: 1.45 !important;
 }
 
-#introduction p { font-weight: 200; }
+#introduction p { font-weight: 300; }
 section h1 { font-weight: 500; }
 .work p { color: rgba(125,125,125,1); }
 .work .container { position: relative; }
@@ -44,7 +44,7 @@ section h1 { font-weight: 500; }
 }
 .work .container .overlay:hover { opacity: 1; }
 .work .container .overlay p {
-	font-weight: 200;
+	font-weight: 300;
 	color      : rgba(255,255,255,1);
 	position   : relative;
 	top        : 50%;
@@ -53,7 +53,7 @@ section h1 { font-weight: 500; }
 }
 
 #resume_links p {
-	font-weight: 200;
+	font-weight: 300;
 	text-align: center;
 }
 
