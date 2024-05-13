@@ -10,7 +10,7 @@ p {
 
 #introduction p { font-weight: 300; }
 section h1 { font-weight: 500; }
-.work p { color: rgba(125,125,125,1); }
+.work p { color: rgba(100,100,100,1); }
 .work .container { position: relative; }
 .work .container .new {
 	background     : rgba(225,0,0,1);

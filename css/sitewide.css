@@ -274,11 +274,11 @@ nav #rightnav #current_page a { color: rgba(225,0,0,1) !important;}
 footer {
 	text-align: center;
 	font-family: 'Raleway', sans-serif;
-	color: rgba(125,125,125,1);
+	color: rgba(100,100,100,1);
 	font-weight: 300;
 }
-#footernav a, #copyright { color: rgba(125,125,125,1); }
-#footernav a:visited { color: rgba(125,125,125,1); }
+#footernav a, #copyright { color: rgba(100,100,100,1); }
+#footernav a:visited { color: rgba(100,100,100,1); }
 #footernav a:hover   { color: rgba(50,50,50,1); }
 #footernav #prev_work, #footernav #next_work { display: inline-block; }
 #footernav #prev_work { text-align: right; }
