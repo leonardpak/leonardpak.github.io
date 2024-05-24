@@ -1,76 +1,75 @@
 LEONARD PAK
 
-Design Leader, Design Practitioner, and Design Educator
-I'm a design leader with experience managing, teaching, and mentoring designers, with the practitioner skills to deliver quality products. I also have background in startup consulting, web development, media production, and IT administration.
+Design Manager and Lead Product/UX Designer
+I'm a design leader with experience managing design teams and have lead individual contributor design capabilities. I also have background in startup consulting, web development, media production, and IT administration.
 
 
 
 
 CONTACT
 
-leonardpak.com
+leonardpak.github.io
 linkedin.com/in/leonardpak
-leo@leonardpak.com
-+81 090-6747-7978
+leonard.eugene.pak@gmail.com
++81 90-6747-7978
 
 
 
 
 EXPERIENCE
 
-User Experience Design Manager - 2019-Present
+Design Manager / Lead Product Designer - 2019-Present
 Indeed - Tokyo, Japan
-- Managed design responsibilities and established operations across multiple new international market and growth teams.
-- Coordinating with (and travel to) core teams in multiple locations to account for international teams’ scopes touching upon majority of Indeed’s product portfolio.
+• Managed design teams and established operations for multiple international market and growth teams; collaborated with core teams in multiple locations.
+• Created designs for enterprise, consumer web, and consumer mobile products.
 
-Lead Senior User Experience Designer - 2017-2019
+Design Manager / Lead Senior Product Designer - 2017-2019
 Amazon - Seattle, United States
-- Established operations for 15-20 person team, including team communications, design reviews, asset management, team documentation, services administration, etc.
-- Managed, mentored, and hired designers and external vendors. Oversaw design work and project roadmaps to align designs with business and design strategy.
-- Project managed design system framework, tracking design and development progress across multiple products and platforms.
-- Delivered designs for Amazon Photos on iOS, Android, web, and Fire/Echo devices.
+• Established operations for 15-20 person team, including team communications, design reviews, asset management, team documentation, services administration, etc.
+• Managed, mentored, and hired designers, overseeing design work/roadmaps for numerous platforms (desktop/mobile web, iOS/iPadOS, Android, Windows, macOS, smart TV/devices, etc.) to align designs with business/design strategy.
+• Delivered designs for Amazon Photos on desktop/mobile web, iOS, Android, and Fire/Echo smart devices.
 
-Co-Founder and Startup Consultant - 2016-2017
+Co-Founder and Design/Startup Consultant - 2016-2017
 Kismet Design - San Francisco, United States
-- Established startup design teams through freelancer staffing and design consultation.
-- Managed business operations and mentoring of 15+ freelance designer community.
+• Established startup design teams through freelancer staffing and design consultation.
+• Managed business operations and mentoring of 15+ freelance designer community.
 
-Lead User Experience Designer - 2015-2016
+Lead Product Designer - 2015-2016
 OpenTable - San Francisco, United States
-- Led design on Guest Center and Connect restaurant products for web and iPad.
-- Managed design team operations for 6+ designers in two locations, including team meetings/processes, shared team assets/documentation, and design system progress.
+• Led design on Guest Center and Connect restaurant products for web and iPad.
+• Managed design team operations for 6+ designers in two locations, including team meetings/processes, shared team assets/documentation, and design system progress.
 
 Lead Instructor, User Experience Design - 2014-2017
 General Assembly - San Francisco, United States
-- Founding instructor of 400-hour User Experience Design Immersive course. Created curriculum, processes, and instructional practices used in over 25 locations worldwide.
-- Taught courses, trained instructors, gave guest talks, and mentored designers.
+• Founding instructor of 400-hour User Experience Design Immersive course. Created curriculum, processes, and instructional practices used in over 25 locations worldwide.
+• Taught courses, trained instructors, gave guest talks, and mentored designers.
 
-Senior User Experience Designer - 2013-2014
+Senior Product Designer - 2013-2014
 Climate Corporation - San Francisco, United States
-- Sole interaction designer, info architect, and researcher for web, iOS, and Android.
-- Delivered designs for agriculture insurance and operation management products.
-- Led full re-architecture of Climate.com, major factor in acquisition for $1.3b USD.
+• Sole product/interaction designer and user researcher for web, iOS, and Android.
+• Delivered designs for agriculture insurance and operation management products.
+• Led full re-architecture of Climate.com, major factor in acquisition for $1.3b USD.
 
 User Experience Designer and Usability Specialist - 2010-2011
 Creative Services - Bloomington, Indiana, United States
-- Designed for education institutions, non-profits, and government clients.
-- Conducted in-person and remote usability studies of up to 50 users for clients.
+• Designed for education institutions, non-profits, and government clients.
+• Conducted in-person and remote usability studies of up to 50 users for clients.
 
 User Experience Designer - 2009-2010
 Slingshot Labs - Los Angeles, United States
-- Designed and researched for social media projects for tech incubator.
+• Designed and researched for social media projects for tech incubator.
 
 
 
 
 OTHER EXPERIENCE
 
-Design Mentorship - 2011-Present
-Have mentored over 50 designers through design schools, graduate programs, and networking.
-
 Freelance Designer and Startup Consultant - 2011-2017
 Self-Employed - Various Locations
-PVComplete (2016), Candy House (2014-2015), Indiana University (2012), Amway (2011), and more.
+Client engagements with startups, educational institutions, and corporations in North America and Asia.
+
+Design Mentorship - 2011-Present
+Mentored over 50 designers through design schools, graduate programs, and networking.
 
 Design, Development, IT Gigs - 2000-2010
 Web/graphic design, web development, audio/video production, database management, IT administration, and technical support for various non-profits.
