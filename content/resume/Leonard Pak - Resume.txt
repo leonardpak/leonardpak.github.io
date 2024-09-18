@@ -1,7 +1,7 @@
 LEONARD PAK
 
 Design Manager and Lead Product/UX Designer
-I'm a design leader with experience managing design teams and have lead individual contributor design capabilities. I also have background in startup consulting, web development, media production, and IT administration.
+I'm a design leader with experience managing design teams and have lead individual contributor design capabilities.
 
 
 
@@ -28,11 +28,6 @@ Amazon - Seattle, United States
 • Established operations for 15-20 person team, including team communications, design reviews, asset management, team documentation, services administration, etc.
 • Managed, mentored, and hired designers, overseeing design work/roadmaps for numerous platforms (desktop/mobile web, iOS/iPadOS, Android, Windows, macOS, smart TV/devices, etc.) to align designs with business/design strategy.
 • Delivered designs for Amazon Photos on desktop/mobile web, iOS, Android, and Fire/Echo smart devices.
-
-Co-Founder and Design/Startup Consultant - 2016-2017
-Kismet Design - San Francisco, United States
-• Established startup design teams through freelancer staffing and design consultation.
-• Managed business operations and mentoring of 15+ freelance designer community.
 
 Lead Product Designer - 2015-2016
 OpenTable - San Francisco, United States
@@ -71,9 +66,6 @@ Client engagements with startups, educational institutions, and corporations in 
 Design Mentorship - 2011-Present
 Mentored over 50 designers through design schools, graduate programs, and networking.
 
-Design, Development, IT Gigs - 2000-2010
-Web/graphic design, web development, audio/video production, database management, IT administration, and technical support for various non-profits.
-
 
 
 
@@ -90,9 +82,9 @@ University of California, Irvine
 
 TOOLS
 
-Figma, Sketch, InVision, Principle, Flinto, Axure, Photoshop, Illustrator, Keynote
+Figma, Sketch, Axure, Photoshop, Keynote
 
-UserTesting, UserZoom, Silverback, Typeform, Ethn.io
+UserTesting, UserZoom, Silverback, Typeform
 
 G Suite, Quip, Asana, Basecamp, JIRA, Trello, GitHub
 
@@ -101,4 +93,4 @@ G Suite, Quip, Asana, Basecamp, JIRA, Trello, GitHub
 
 LANGUAGES
 
-English (native), Japanese (elementary), Mandarin Chinese (elementary), Korean (elementary)
+English (native), Japanese (N3-N4, lower intermediate), Mandarin Chinese (elementary), Korean (elementary)
