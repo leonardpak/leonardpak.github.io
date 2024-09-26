@@ -1,7 +1,7 @@
 LEONARD PAK
 
-Design Manager and Lead Product/UX Designer
-I'm a design leader with experience managing design teams and have lead individual contributor design capabilities.
+Lead Product/UX Designer
+I'm a design leader with experience managing design teams and lead individual contributor design ability.
 
 
 
@@ -26,7 +26,7 @@ Indeed - Tokyo, Japan
 Design Manager / Lead Senior Product Designer - 2017-2019
 Amazon - Seattle, United States
 • Established operations for 15-20 person team, including team communications, design reviews, asset management, team documentation, services administration, etc.
-• Managed, mentored, and hired designers, overseeing design work/roadmaps for numerous platforms (desktop/mobile web, iOS/iPadOS, Android, Windows, macOS, smart TV/devices, etc.) to align designs with business/design strategy.
+• Managed, mentored, and hired designers, overseeing design work/roadmaps for numerous platforms (desktop/mobile web, iOS/iPadOS, Android, Windows, macOS, Android TV/devices, etc.) to align designs with business/design strategy.
 • Delivered designs for Amazon Photos on desktop/mobile web, iOS, Android, and Fire/Echo smart devices.
 
 Lead Product Designer - 2015-2016
@@ -59,12 +59,12 @@ Slingshot Labs - Los Angeles, United States
 
 OTHER EXPERIENCE
 
-Freelance Designer and Startup Consultant - 2011-2017
+Freelance Design/Consulting - 2011-2017
 Self-Employed - Various Locations
 Client engagements with startups, educational institutions, and corporations in North America and Asia.
 
 Design Mentorship - 2011-Present
-Mentored over 50 designers through design schools, graduate programs, and networking.
+Taught and mentored over one hundred designers, some who went on to work at Google, Apple, Microsoft, Amazon, Meta, Uber, Tesla, AirBNB, etc.
 
 
 
@@ -82,7 +82,7 @@ University of California, Irvine
 
 TOOLS
 
-Figma, Sketch, Axure, Photoshop, Keynote
+Figma, Sketch, Axure, Photoshop, Illustrator, Keynote
 
 UserTesting, UserZoom, Silverback, Typeform
 
